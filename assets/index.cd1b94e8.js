@@ -28,7 +28,7 @@ while(i < 10) {\r
     legs = 4\r
 }`}),uc,dc,mc,z(o,{code:`class Pig : Animal {\r
     func makeSound() {\r
-        println("Squeeeek! Says the pig with " + this.legs " legs")\r
+        println("Squeeeek! Says the pig with " + this.legs + " legs")\r
     }\r
 }`}),hc,z(o,{code:`class Cow : Animal {\r
     func makeSound() {\r
